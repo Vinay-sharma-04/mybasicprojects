@@ -1,7 +1,7 @@
 '''
 rock = 1
 paper = -1
-Scissors = 0
+scissors = 0
 
 '''
 
@@ -42,4 +42,5 @@ else:
 
     elif(computer_choice == 0 and my_choice == -1):
          print("i lose 😢")   
+
 
