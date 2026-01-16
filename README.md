@@ -85,6 +85,24 @@ Concepts Used:
 
 --------------------------------------------------
 
+5. Restaurant Ordering System
+
+A simple command-line based restaurant ordering system using Python.
+It allows users to select food items from a predefined menu and
+calculates the total bill amount.
+
+Features:
+- Displays menu with prices
+- Allows ordering of multiple items
+- Calculates total order amount
+- Handles invalid item selection
+
+Concepts Used:
+- Dictionary
+- Conditional statements
+- User input handling
+
+
 Technologies Used
 - Python 3
 - Command Line Interface (CLI)
